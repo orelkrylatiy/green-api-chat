@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/ChatWindow.tsx","./src/components/LoginScreen.tsx","./src/components/Sidebar.tsx","./src/lib/greenApi.ts","./src/lib/notification.ts","./src/lib/phone.ts"],"version":"5.9.3"}
